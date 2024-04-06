@@ -42,3 +42,26 @@ C:\Users\Nikola\source\repos\Clicker\Clicker\obj\Debug\net5.0-windows\Clicker.pd
 C:\Users\Nikola\source\repos\Clicker\Clicker\obj\Debug\net5.0-windows\Clicker.genruntimeconfig.cache
 C:\Users\Nikola\source\repos\Clicker\Clicker\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
 C:\Users\Nikola\source\repos\Clicker\Clicker\obj\Debug\net5.0-windows\Clicker.csproj.ResolveComReference.cache
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\bin\Debug\net5.0-windows\Clicker.exe
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\bin\Debug\net5.0-windows\Clicker.deps.json
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\bin\Debug\net5.0-windows\Clicker.runtimeconfig.json
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\bin\Debug\net5.0-windows\Clicker.runtimeconfig.dev.json
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\bin\Debug\net5.0-windows\Clicker.dll
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\bin\Debug\net5.0-windows\ref\Clicker.dll
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\bin\Debug\net5.0-windows\Clicker.pdb
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.csproj.AssemblyReference.cache
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.csproj.ResolveComReference.cache
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.Credits.resources
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.Form1.resources
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.Properties.Resources.resources
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.Stats.resources
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.csproj.GenerateResource.cache
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.AssemblyInfoInputs.cache
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.AssemblyInfo.cs
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.dll
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\ref\Clicker.dll
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.pdb
+C:\Users\Meto\Desktop\click to win\Click-To-Win\Clicker\obj\Debug\net5.0-windows\Clicker.genruntimeconfig.cache

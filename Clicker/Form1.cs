@@ -16,59 +16,7 @@ using WMPLib;
 namespace Clicker
 {
     public partial class Form1 : Form
-    {/*
-        public Points points { get; set; }
-        public Click Clicker { get; set; }
-
-        public Upgrade AutoClicker { get; set; }
-
-        public Upgrade Employee { get; set; }
-
-        public Upgrade Farm { get; set; }
-
-        public Upgrade Factory { get; set; }
-
-        public Upgrade Lab { get; set; }
-
-        public Upgrade Portal { get; set; }
-
-        public Purchase DoubleClick1 { get; set; }
-        public Purchase DoubleClick2 { get; set; }
-        public Purchase DoubleClick3 { get; set; }
-        public Purchase DoubleClick4 { get; set; }
-        public Purchase DoubleClick5 { get; set; }
-        public Purchase DoubleClick6 { get; set; }
-        public Purchase DoubleClick7 { get; set; }
-        public Purchase DoubleClick8 { get; set; }
-
-
-        public Purchase Multiplier1 { get; set; }
-        public Purchase Multiplier2 { get; set; }
-        public Purchase Multiplier3 { get; set; }
-        public Purchase Multiplier4 { get; set; }
-        public Purchase Multiplier5 { get; set; }
-        public Purchase Multiplier6 { get; set; }
-        public Purchase Multiplier7 { get; set; }
-        public Purchase Multiplier8 { get; set; }
-      
-        public bool btnDoubleLock1 = false;
-        public bool btnDoubleLock2 = false;
-        public bool btnDoubleLock3 = false;
-        public bool btnDoubleLock4 = false;
-        public bool btnDoubleLock5 = false;
-        public bool btnDoubleLock6 = false;
-        public bool btnDoubleLock7 = false;
-        public bool btnDoubleLock8 = false;
-        public bool btnLock1 = false;
-        public bool btnLock2 = false;
-        public bool btnLock3 = false;
-        public bool btnLock4 = false;
-        public bool btnLock5 =false;
-        public bool btnLock6 = false;
-        public bool btnLock7 = false;
-        public bool btnLock8 = false;
-        */
-        //private SoundPlayer soundPlayer;
+    {
 
         public int timerCount = 0;
         public Scene scene { get; set; }
@@ -85,8 +33,8 @@ namespace Clicker
         }
         private void playRegister()
         {
-            SoundPlayer soundPlayer = new SoundPlayer("cash register.wav");
-            soundPlayer.Play();
+            //SoundPlayer soundPlayer = new SoundPlayer("cash register.wav");
+            //soundPlayer.Play();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -310,16 +258,16 @@ namespace Clicker
         {
             pictureBox1.Width -= 2;
             pictureBox1.Height -= 2;
-            SoundPlayer soundPlayer = new SoundPlayer("click1.wav");
-            soundPlayer.Play();
+            //SoundPlayer soundPlayer = new SoundPlayer("click1.wav");
+            //soundPlayer.Play();
         }
 
         private void pictureBox1_MouseUp(object sender, MouseEventArgs e)
         {
             pictureBox1.Width += 2;
             pictureBox1.Height += 2;
-            SoundPlayer soundPlayer = new SoundPlayer("click2.wav");
-            soundPlayer.Play();
+            //SoundPlayer soundPlayer = new SoundPlayer("click2.wav");
+            //soundPlayer.Play();
         }
 
 

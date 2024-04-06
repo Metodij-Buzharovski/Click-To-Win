@@ -33,8 +33,9 @@ namespace Clicker
         }
         private void playRegister()
         {
-            //SoundPlayer soundPlayer = new SoundPlayer("cash register.wav");
-            //soundPlayer.Play();
+            string soundFilePath = Path.Combine(Environment.CurrentDirectory, "upgrade.wav");
+            SoundPlayer soundPlayer = new SoundPlayer(soundFilePath);
+            soundPlayer.Play();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -258,8 +259,9 @@ namespace Clicker
         {
             pictureBox1.Width -= 2;
             pictureBox1.Height -= 2;
-            //SoundPlayer soundPlayer = new SoundPlayer("click1.wav");
-            //soundPlayer.Play();
+            string soundFilePath = Path.Combine(Environment.CurrentDirectory, "click1.wav");
+            SoundPlayer soundPlayer = new SoundPlayer(soundFilePath);
+            soundPlayer.Play();
         }
 
         private void pictureBox1_MouseUp(object sender, MouseEventArgs e)

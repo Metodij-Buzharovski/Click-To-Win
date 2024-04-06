@@ -33,8 +33,7 @@ namespace Clicker
         }
         private void playRegister()
         {
-            string soundFilePath = Path.Combine(Environment.CurrentDirectory, "upgrade.wav");
-            SoundPlayer soundPlayer = new SoundPlayer(soundFilePath);
+            SoundPlayer soundPlayer = new SoundPlayer("..\\..\\..\\Sound Effects\\upgrade.wav");
             soundPlayer.Play();
         }
 
@@ -259,8 +258,7 @@ namespace Clicker
         {
             pictureBox1.Width -= 2;
             pictureBox1.Height -= 2;
-            string soundFilePath = Path.Combine(Environment.CurrentDirectory, "click1.wav");
-            SoundPlayer soundPlayer = new SoundPlayer(soundFilePath);
+            SoundPlayer soundPlayer = new SoundPlayer("..\\..\\..\\Sound Effects\\click1.wav");
             soundPlayer.Play();
         }
 

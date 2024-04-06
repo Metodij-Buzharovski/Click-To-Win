@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Meto\\Desktop\\click to win\\Click-To-Win\\Clicker\\Clicker.csproj": {}
+    "C:\\Users\\Meto\\Desktop\\ctw git\\Click-To-Win\\Clicker\\Clicker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Meto\\Desktop\\click to win\\Click-To-Win\\Clicker\\Clicker.csproj": {
+    "C:\\Users\\Meto\\Desktop\\ctw git\\Click-To-Win\\Clicker\\Clicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Meto\\Desktop\\click to win\\Click-To-Win\\Clicker\\Clicker.csproj",
+        "projectUniqueName": "C:\\Users\\Meto\\Desktop\\ctw git\\Click-To-Win\\Clicker\\Clicker.csproj",
         "projectName": "Clicker",
-        "projectPath": "C:\\Users\\Meto\\Desktop\\click to win\\Click-To-Win\\Clicker\\Clicker.csproj",
+        "projectPath": "C:\\Users\\Meto\\Desktop\\ctw git\\Click-To-Win\\Clicker\\Clicker.csproj",
         "packagesPath": "C:\\Users\\Meto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Meto\\Desktop\\click to win\\Click-To-Win\\Clicker\\obj\\",
+        "outputPath": "C:\\Users\\Meto\\Desktop\\ctw git\\Click-To-Win\\Clicker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
